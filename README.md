@@ -1,2 +1,14 @@
 # top-iqy-pages
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+这里是自动发布页面的存放目录，用于集中维护生成结果。
+
+## 内容记录
+
+- 页面文件会逐步增加
+- 仓库说明会随配置保持更新
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
